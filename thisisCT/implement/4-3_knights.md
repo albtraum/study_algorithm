@@ -2,7 +2,7 @@
 
 - 단순 구현 문제
 
-'''python
+```python
 # -*- coding: utf-8 -*-
 # 입력 받기 
 # ex) a1,b3 => a는 열 , 1은 행을 의미 
@@ -20,4 +20,4 @@ for e in can_move :
         ans +=1
 
 print(ans)
-'''
+```
